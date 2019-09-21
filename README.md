@@ -4,29 +4,29 @@
 
 <b> GradCAM using last layer <b>
   
-![alt text](https://github.com/rp8081/Session-10/blob/master/image1.png)
+![alt text](https://github.com/rp8081/Session-10/blob/master/image1.PNG)
 
 <b> GradCAM using second last layer <b>
   
-![alt text](https://github.com/rp8081/Session-10/blob/master/image2.png)
+![alt text](https://github.com/rp8081/Session-10/blob/master/image2.PNG)
   
 <b> GradCAM using third last layer <b>
   
-![alt text](https://github.com/rp8081/Session-10/blob/master/image3.png)
+![alt text](https://github.com/rp8081/Session-10/blob/master/image3.PNG)
 
 ## In part B of this  assignment , we have to "Find"  "sunglasses" in the image using GradCAM.
 
 
 <b> Find Sunglass using class id - 837 (837: 'sunglasses, dark glasses, shades' -- This is infact predicted class by this model) <b>
   
-![alt text](https://github.com/rp8081/Session-10/blob/master/image4.png)
+![alt text](https://github.com/rp8081/Session-10/blob/master/image4.PNG)
   
 <b> Find Sunglass using class id - 836 (836: 'sunglass')<b>
   
-![alt text](https://github.com/rp8081/Session-10/blob/master/image5.png)
+![alt text](https://github.com/rp8081/Session-10/blob/master/image5.PNG)
   
 <b> Find sweatshirt using class id - 841 (841: 'sweatshirt' - Just for fun ) <b>
   
-![alt text](https://github.com/rp8081/Session-10/blob/master/image6.png)
+![alt text](https://github.com/rp8081/Session-10/blob/master/image6.PNG)
 
 
