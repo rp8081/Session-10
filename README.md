@@ -1,6 +1,6 @@
 # Session-10
 
-## In this assignment, we are using pretrained VGG16 model and building GradCAM images for  second last and third last conv layer.
+## 1. First Part : In this part of assignment, we are using pretrained VGG16 model and building GradCAM images for  second last and third last conv layer.
 
 <b> GradCAM using last layer <b>
   
@@ -28,5 +28,14 @@
 <b> Find sweatshirt using class id - 841 (841: 'sweatshirt' - Just for fun ) <b>
   
 ![alt text](https://github.com/rp8081/Session-10/blob/master/image6.PNG)
+
+
+
+## 2. Second Part : In this part of assignment,We have to explain increase in recpeptive field from 29 to 45.
+
+<p> The jumpin factor is 1 in starting. Then it becomes 2, then 4 and finally 8 ( All because of max pooling) <p>
+  ![alt text](https://github.com/rp8081/Session-10/blob/master/Assignment 10 - PartB.PNG)
+  
+
 
 
