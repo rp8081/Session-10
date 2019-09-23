@@ -33,7 +33,7 @@
 
 ## 2. Second Part : In this part of assignment,We have to explain increase in recpeptive field from 29 to 45.
 
-<p> The jumpin factor is 1 in starting. Then it becomes 2, then 4 and finally 8 ( All because of max pooling) <p>
+<p> The jump in factor is 1 in starting. Then it becomes 2, then 4 and finally 8 ( All because of max pooling) <p>
   ![alt text](https://github.com/rp8081/Session-10/blob/master/Assignment 10 - PartB.PNG)
   
 
